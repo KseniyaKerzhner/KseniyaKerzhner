@@ -2,7 +2,8 @@
 
 <div id="header" align="center">
   <a href = "https://www.linkedin.com/in/kseniya-kerzhner-a7b965176/"><img src="https://img.shields.io/badge/LinkedIn-blue"  alt="LinkedIn Badge" target = "_blank"/></a>
-  <a https://t.me/KerzhnerKseniya><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" target = "_blank"/></a>
+  <a href = https://t.me/KerzhnerKseniya><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" target = "_blank"/></a>
+  <img src = "https://www.codewars.com/users/rsschool_66d39914998bf494/badges/micro">
 </div>
 
 ### :woman_technologist: About me:
