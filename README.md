@@ -24,6 +24,7 @@
 
 | Project title | Deploy link |
 | ----------- | ----------- |
+| Game| [Guess My Number](https://kseniyakerzhner.github.io/GuessMyNumber/)|
 | Library    | library   |
 | Omnifood    | [omnifood](https://kseniyakerzhner.github.io/Omnifood-Project/)   |
 | Travel | [travel](https://rolling-scopes-school.github.io/kseniyakerzhner-JSFEPRESCHOOL2022Q2/travel/) |
