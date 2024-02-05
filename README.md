@@ -7,7 +7,7 @@
 </div>
 
 ### :woman_technologist: About me:
-#### I am a frontend developer with 1 years of experience. I'm looking for a job as a front-end developer in an office in Moscow or remotely.
+#### I am a frontend developer. I'm looking for a job as a front-end developer in an office in Moscow or remotely.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
