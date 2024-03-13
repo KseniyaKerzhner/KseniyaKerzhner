@@ -7,7 +7,7 @@
 </div>
 
 ### :woman_technologist: About me:
-#### I am a manual testing engineerю
+#### I am a manual testing engineer.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
