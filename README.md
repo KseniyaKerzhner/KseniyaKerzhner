@@ -3,7 +3,6 @@
 <div id="header" align="center">
   <a href = "https://www.linkedin.com/in/kseniya-kerzhner-a7b965176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"  alt="LinkedIn Badge"/></a>
   <a href = https://t.me/KerzhnerKseniya target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/></a>
-  <img src = "https://www.codewars.com/users/rsschool_66d39914998bf494/badges/micro">
 </div>
 
 ### :woman_technologist: About me:
@@ -12,22 +11,23 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/DevTools-282C34?logo=googlechrome&logoColor=2674f2" alt="chrome-devtools logo" title="chrome-devtools" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=1572B6" alt="figma logo" title="figma" height="25" />&nbsp;
 </div>
 
 ---
 
 ## My Projects:
 
-| Project title | Deploy link |
-| ----------- | ----------- |
-| Game| [Guess My Number](https://kseniyakerzhner.github.io/GuessMyNumber/)|
-| Library    | [library](https://rolling-scopes-school.github.io/kseniyakerzhner-JSFEPRESCHOOL2023Q2/library/)   |
-| Omnifood    | [omnifood](https://kseniyakerzhner.github.io/Omnifood-Project/)   |
-| Travel | [travel](https://rolling-scopes-school.github.io/kseniyakerzhner-JSFEPRESCHOOL2022Q2/travel/) |
+| Project title | Deploy link |  Languages & Tools |
+| ----------- | ----------- | ----------- |
+| Game| [Guess My Number](https://kseniyakerzhner.github.io/GuessMyNumber/)|  JavaScript  |
+| Omnifood    | [omnifood](https://kseniyakerzhner.github.io/Omnifood-Project/)   | HTML, CSS, adaptive  |
+| Library    | [library](https://rolling-scopes-school.github.io/kseniyakerzhner-JSFEPRESCHOOL2023Q2/library/)   | HTML, CSS |
 
 
 <!--
