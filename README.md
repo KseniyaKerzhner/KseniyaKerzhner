@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kseniya
+<h1 align=center>Hi there 👋, I'm Kseniya <br> QA Engineer </h1>
 
 <div id="header" align="center">
   <a href = "https://www.linkedin.com/in/kseniya-kerzhner-a7b965176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"  alt="LinkedIn Badge"/></a>
