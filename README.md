@@ -8,7 +8,7 @@
 </div>
 
 ### :woman_technologist: About me:
-##### I am a manual QA engineer. I have experience in writing test cases, test reports, bug reports; conducting functional and regression testing; worked with Linux command line, DevTools, Git, conducted API testing, worked with Swagger and Postman. <br> <br> I have a master's degree in civil engineering. I can develop adaptive flexible landing pages and it helps me design more comprehensive test cases and identify potential issues more effectively. <br><br> The further goal is to become an expert in the field of automated testing, including the use of tools and technologies such as Selenium, Appium and others.
+##### I am a manual QA engineer. I have experience in writing test cases, test reports, bug reports; conducting functional and regression testing; worked with Linux command line, DevTools, Git, conducted API testing, worked with Swagger and Postman. <br> <br> The further goal is to become an expert in the field of automated testing, including the use of tools and technologies such as Selenium, Appium and others.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
