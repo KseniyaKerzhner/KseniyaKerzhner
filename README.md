@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <a href = "https://www.linkedin.com/in/kseniya-kerzhner-a7b965176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"  alt="LinkedIn Badge"/></a>
-  <a href = https://t.me/ target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/></a>
+  <!--<a href = https://t.me/KerzhnerKseniya target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/></a>-->
   
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kerzhnerkb@gmail.com)
 </div>
