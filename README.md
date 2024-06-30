@@ -31,10 +31,11 @@
 
 ## My portfolio:
 
-| Title | Deploy link |  Repository | Documentation & Tools |
+| Title | Deploy link |  Documentation | Test Artifacts & Tools |
 | ----------- | ----------- | ----------- | ----------- |
-| Codebattle | [codebattle.hexlet.io](https://codebattle.hexlet.io//)|  [link](https://github.com/KseniyaKerzhner/codebattle.hexlet.io) | test-cases, testing-report, bug-report, <br> DevTools, GitHub, YAML |
-| Online store testing | [hexlet-products-store](https://hexlet-products-store.vercel.app/)|  [link](https://github.com/KseniyaKerzhner/hexlet-products-store) | test-cases, testing-report, bug-report, regress-testing, <br> DevTools, GitHub, YAML |
+| RunIT | [runit.hexlet.ru](https://runit.hexlet.ru/)|  [link](https://github.com/hexlet-rus/runit/issues/created_by/KseniyaKerzhner) | regress-testing, bug-reports, test-cases, test-plans, <br> DevTools, GitHub, Allure TestOps |
+| Codebattle | [codebattle.hexlet.io](https://codebattle.hexlet.io//)|  [link](https://github.com/KseniyaKerzhner/codebattle.hexlet.io) | test-cases, testing-report, bug-reports, <br> DevTools, GitHub, YAML |
+| Online store testing | [hexlet-products-store](https://hexlet-products-store.vercel.app/)|  [link](https://github.com/KseniyaKerzhner/hexlet-products-store) | test-cases, testing-report, bug-reports, regress-testing, <br> DevTools, GitHub, YAML |
 
 
 
