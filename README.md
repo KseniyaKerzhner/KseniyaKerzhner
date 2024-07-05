@@ -37,7 +37,7 @@
 | Codebattle | [codebattle.hexlet.io](https://codebattle.hexlet.io//)|  [link](https://github.com/KseniyaKerzhner/codebattle.hexlet.io) | test-cases, testing-report, bug-reports, <br> DevTools, GitHub, YAML |
 | Online store testing | [hexlet-products-store](https://hexlet-products-store.vercel.app/)|  [link](https://github.com/KseniyaKerzhner/hexlet-products-store) | test-cases, testing-report, bug-reports, regress-testing, <br> DevTools, GitHub, YAML |
 
-
+Тестовые задания выполненные мной расположены в репозирории 
 
 
 ## My development projects:
