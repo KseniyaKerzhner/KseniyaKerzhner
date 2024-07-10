@@ -29,7 +29,7 @@
 
 ---
 
-## The test assignments I have done are located in [the repository](https://github.com/KseniyaKerzhner/Test-assignments).
+# The test assignments I have done are located in [the repository](https://github.com/KseniyaKerzhner/Test-assignments).
 ## My portfolio:
 
 | Title | Deploy link |  Documentation | Test Artifacts & Tools |
