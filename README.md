@@ -9,6 +9,8 @@
 
 ### :woman_technologist: About me:
 ##### I am a manual QA engineer. I have experience in writing test cases, test reports, bug reports; conducting functional and regression testing; worked with Linux command line, DevTools, Git, conducted API testing, worked with Swagger and Postman. <br> <br> I know test design techniques (equivalence classes, boundary values, pairwise testing, etc.) and can apply them in practice. I write competent and understandable bug reports. <br> <br> The further goal is to become an expert in the field of automated testing, including the use of tools and technologies such as Selenium, Appium and others.
+
+[My CV](https://docs.google.com/document/d/1vmyN3jRyEJzKsePF9Gog3f6B5sKRDf3XAGbka4Gqejw/edit?usp=sharing)
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
